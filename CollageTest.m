@@ -4,4 +4,6 @@ disp('MakeCollage')
 %collage of all other images to match a test image as closely as possible
 disp('Hello')
 disp('1')
+disp('Select Image Folder')
+
 end
